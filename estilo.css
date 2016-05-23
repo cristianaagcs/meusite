@@ -2,3 +2,7 @@ body {
   background-color:A83F3F;
   font-size: 30px;
 }
+li a{
+    text-decoration:none;
+  font-family:cursive;
+}
