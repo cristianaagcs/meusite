@@ -4,7 +4,7 @@ div {
 
 #header {
 	z-index: 1;
-	position: absolute;
+	position: relative;
 	width: 98%;
 	margin-top: 20px;
 	background-color: #668284;
@@ -36,7 +36,7 @@ h4 {
 }
 
 .right p {
-	position: absolute;
+	position: relative;
 	margin-left: 5px;
 	margin-right: 5px;
 	margin-top: -10px;
@@ -45,7 +45,7 @@ h4 {
 }
 
 .left {
- 	position: absolute;
+ 	position: relative;
  	float: left;
  	margin-top: 50px;
  	width: 10%;
@@ -63,7 +63,7 @@ a:hover {
 }
 
 .right {
-	position: static;
+	position: relative;
 	float: right;
 	margin-top: 50px;
 	width: 88%;
@@ -73,7 +73,7 @@ a:hover {
 }
 
 #footer {
-	position:  absolute;
+	position: relative;
 	height: 50px;
 	background-color: #668284;
 	clear: both;
