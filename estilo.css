@@ -36,7 +36,7 @@ h4 {
 }
 
 .right p {
-	position: relative;
+	position:relative;
 	margin-left: 5px;
 	margin-right: 5px;
 	margin-top: -10px;
@@ -50,7 +50,7 @@ h4 {
  	margin-top: 50px;
  	width: 10%;
  	height: 400px;
- 	background-color: #B9D7D9;
+ 	background-color: #F4A460;
  	margin-bottom: 10px;
  }
  
