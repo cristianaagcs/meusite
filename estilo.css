@@ -1,4 +1,7 @@
-div {
+*{
+    border:1px dashed #0000FF;
+    }
+div{
 	border-radius: 5px;
 }
 
