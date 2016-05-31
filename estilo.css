@@ -4,7 +4,7 @@ div {
 
 #header {
 	z-index: 1;
-	position: fixed;
+	position: relative;
 	width: 98%;
 	margin-top: 20px;
 	background-color: #668284;
@@ -36,7 +36,7 @@ h4 {
 }
 
 .right p {
-	position:fixe;
+	position: static;
 	margin-left: 5px;
 	margin-right: 5px;
 	margin-top: -10px;
@@ -45,7 +45,7 @@ h4 {
 }
 
 .left {
- 	position: relative;
+ 	position: static;
  	float: left;
  	margin-top: 50px;
  	width: 10%;
@@ -63,7 +63,7 @@ a:hover {
 }
 
 .right {
-	position: relative;
+	position: static;
 	float: right;
 	margin-top: 50px;
 	width: 88%;
