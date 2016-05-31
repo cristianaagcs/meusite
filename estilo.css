@@ -3,6 +3,8 @@ div{
 }
 
 #header {
+	font-family:Courier;
+    	color:#8C8C8C
 	z-index: 1;
 	position: relative;
 	width: 98%;
