@@ -3,13 +3,11 @@ div{
 }
 
 #header {
-	font-family:Courier;
-    	color:#8C8C8C
 	z-index: 1;
 	position: fixed;
 	width: 97.5%;
 	height: 60%;
-	margin-top: 20px;
+	margin-top: -20px;
 	background-color: #668284;
 	margin-bottom: 10px;
 }
