@@ -35,15 +35,6 @@ h4 {
 	font-family: Verdana, sans-serif;
 }
 
-.right p {
-	position: relative;
-	margin-left: 5px;
-	margin-right: 5px;
-	margin-top: -10px;
-	font-family: Garamond, serif;
-	color: #000000;
-}
- 
 li {
 	list-style-type: square;
 }
