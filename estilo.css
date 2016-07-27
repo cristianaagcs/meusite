@@ -5,17 +5,21 @@ div{
 }
 
 #header {
+	color: #3D59AB;
+	text-align: center;
+	font-size: 25px;
 	z-index: 1;
 	position: relative;
 	width: 97.5%;
 	height: 30%;
 	margin-top: 20px;
 	margin-bottom: 10px;
+	font-family:#800000;
+	
 }
 #header h3{
 	text-align: center;
-	font-family: Verdana;
-	font-family:#800000;
+
 	
 }
 
